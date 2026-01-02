@@ -45,3 +45,7 @@ I believe in neuroplasticity and rigorous study protocols. Right now, I am activ
 ### ⚡ Fun Fact
 * I'm a vegetarian who runs on deep work and complex problem-solving.
 * I occasionally experiment with neuro-optimization techniques to maximize learning retention.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
