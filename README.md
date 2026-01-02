@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=150&section=header&text=AINetOps&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Network%20Engineering%20%7C%20Agentic%20AI&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=150&section=header&text=AINetOps&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Network%20Engineering%20%7C%20Agentic%20AI&descAlignY=55&descSize=15)
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
