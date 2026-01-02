@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=300&section=header&text=Infrastructure%20x%20Intelligence&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Network%20Engineering%20%7C%20Agentic%20AI%20%7C%20MLOps&descAlignY=55&descSize=20)
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
