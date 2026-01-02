@@ -1,6 +1,6 @@
-<p align="center">
+![Header]
 (https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=300&section=header&text=NetOps%20x%20AIOps&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Network%20Engineering%20%7C%20Agentic%20AI%20%7C%20MLOps&descAlignY=55&descSize=20)
-</p>
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
