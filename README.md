@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=150&section=header&text=AETHERA&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Autonomous%20Enterprise%20Network%20AI%20Platform&descAlignY=55&descSize=15)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=150&section=header&text=Abhinay%20Mylavarapu&fontSize=40&animation=fadeIn&fontAlignY=38&desc=AI-Driven%20Network%20Engineer%20&descAlignY=55&descSize=15)
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
